@@ -1,0 +1,67 @@
+
+
+.container h6{
+
+    text-align: center;
+    color: olivedrab;
+}
+
+.container h1{
+
+    text-align: center;
+}
+
+
+
+
+.container{
+    margin: auto;
+    height: 800px;
+    width: 800px;
+   
+}
+
+.container2{
+
+    width: 100%;
+    height: 80%;
+
+}
+
+.container3{
+
+height: 32%;
+width: 49%;
+float: left;
+overflow: hidden;
+
+
+
+
+}
+
+
+.box{
+    float: left;
+    flex: auto;
+    height: 100%;
+    width: 80%;
+}
+
+
+
+.icon{
+    float: left;
+    height: 100%;
+    width: 20%;
+}
+
+
+
+
+
+
+.divider {
+    border-top: 0.5px solid #bbb;
+    border-radius: 5px;
+  }
